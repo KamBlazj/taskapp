@@ -1,46 +1,22 @@
-# Getting Started with Create React App
+#EN
+-Open Your command terminal tool
+-Go into Directory Where You downloaded this package
+-Go into folder "taskapp-main"
+-run command "npm install" to install all dependencies and wait until instalation finishes.
+-Open Your internet browser and, run command "npm start" in command terminal, after some time there will be new tab in your browser http://localhost:3000/
+-See how apllication works.
+
+- You can find build files in "taskmain-app/build" folder
+
+#PL
+- Otwórz program linii komend.
+- Przejdź do lokacji gdzie zapisano ściągnięte pliki.
+- Przejdź do lokacji "taskapp-main"
+- Uruchom komendę "npm install" aby zainstalować wszystkie wymagane pliki, poczekaj aż instalacja się zakończy.
+- Otwórz swoją przeglądarkę internetową, uruchom komendę "npm start" w linii komend, po jakimś czasie pojawi się nowa zakładka w twojej przeglądarce http://localhost:3000/
+- Sprawdź jak działa aplikacja.
+
+- Możesz znaleźć pliki gotowe na produkcję, w folderze "taskmain-app/build"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
